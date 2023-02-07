@@ -1,0 +1,34 @@
+body {
+    background-color: #F9F5E7;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+section {
+    margin: auto;
+    text-align: center;
+    width: 800px;
+    height: 100px;
+    background-color: #EDDBC7;
+    padding: 40px;
+    
+}
+
+input {
+    background-color: #F8EAD8;
+    border-radius: 5px;
+}
+
+#local {
+    font-size: 20px;
+
+}
+
+button {
+    background-color:#F8EAD8 ;
+    width: 80px;
+    border-radius: 5px;
+}
